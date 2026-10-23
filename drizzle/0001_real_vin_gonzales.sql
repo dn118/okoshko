@@ -1,0 +1,1 @@
+ALTER TABLE `waiters` ADD `replaces_id` text;
